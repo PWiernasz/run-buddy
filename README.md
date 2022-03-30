@@ -12,3 +12,5 @@ https://pwiernasz.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Peter Wiernasz
+
+### ©️2019 Run Buddy, Inc 
